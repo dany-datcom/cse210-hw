@@ -1,4 +1,3 @@
-//Contains the name, product id, price, and quantity of each product.
 public class Product
 {
     private string _name;
@@ -33,5 +32,5 @@ public class Product
 
 
 
-//(If the price per unit was $3 and they bought 5 of them, the product total cost would be $15.)
+
 
